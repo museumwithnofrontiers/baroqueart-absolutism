@@ -1,4 +1,101 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Baroque Art's virtual exhibition Absolutism (exhibitions/BAR/absolutism/), each file as legacy serves it, byte for byte; the curators' and the designer's logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/banner.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/banner.png",
+      "sha256": "29cc317970c527c2128363979a54f6b422438a33f4f153ce651eb31e6077c396"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/bg_fading_left.gif",
+      "sha256": "72050ea0f18c70aeccddc92c889df70b87a4f09eac22908a27ae94327ac3e3ac"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/bg_fading_right.gif",
+      "sha256": "fad3b587faeefd3fe0442e432664a8ad09bbc75581a6000a6f24033d7e2eeb9a"
+    },
+    "theme/assets/legacy/CZ-46.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/CZ-46.png",
+      "sha256": "73125b559893dff1cb41627fa5d50b8a4b487ab800ec035b1fe9b1be137e0c07"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/exhibition_bg_ar.jpg",
+      "sha256": "5d5a463d70a586f5b14f0ded00f974f57957c0fa9efc245d9e142c853933dcb5"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/exhibition_bg.jpg",
+      "sha256": "5d5a463d70a586f5b14f0ded00f974f57957c0fa9efc245d9e142c853933dcb5"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/home_bg_ar.jpg",
+      "sha256": "573e54737a74cb81d24b1b8707ff5efde62d6cdbbc31f6b132270c18deea79f4"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/home_bg.jpg",
+      "sha256": "50f6059e9b55ff82e7447e1a06cc5a5ee046dde4f6ba00357a30c677f125ab25"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/intro_bg_ar.jpg",
+      "sha256": "c319c615b2fbb3237ed2bca29212a004952e950021fe7a5c2764bae93086d829"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/intro_bg.jpg",
+      "sha256": "8b2a003fecc02f4c0a6c3f4f61256f39caf35e09e4b5ee147788b7df41808000"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_ar.gif",
+      "sha256": "0e07c4e9801597b9fc007d9dc89ce3c31e007ede320674db3b9a554f6075615e"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_de.gif",
+      "sha256": "318acb1a56f0125f583316e9522eb0525d93307eafb8872cec26b71bc6d390f4"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_en.gif",
+      "sha256": "e92da6316a82e8c4dcfa3dca91d6e33e9d685869536cdd1ff65c8d508e77a4a8"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_es.gif",
+      "sha256": "d6ffb0298dd43ae9b4d42df37319d883433b7ec9ce415731693afaf25ed5f7c5"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_fr.gif",
+      "sha256": "5608032f38a345504c8ac8a72969a2d1b7d16858754c3aca73eb8c7d7d9f8b4e"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_it.gif",
+      "sha256": "6e2f12b8d090a83ebe2cd8d202c2e022a615c80cccd7511a0db98858273823a8"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_pt.gif",
+      "sha256": "082184c7adc410e6490172595ea7c12e9eb97229027c5a74579ada16bbf459ba"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/logo_tr.gif",
+      "sha256": "2bb8b83dfe47e6b421371abc54f6c9149aebef4bbc511ae3f098c821a3301dff"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/absolutism/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/yasar.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/yasar.png",
+      "sha256": "36d460d80fb84e7345b7bedc6d605412feef3cb6f284d5f45431b8e4b1064757"
+    }
+  }
 }
